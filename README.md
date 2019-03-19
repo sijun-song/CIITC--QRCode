@@ -1,2 +1,1 @@
-# CIITC--QRCode
-CIITC -QRCode
+QRCode -QRCode
